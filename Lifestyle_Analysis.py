@@ -15,15 +15,15 @@ sns.set_context("notebook")
 
     # Use random forrest to predict whos likely to have spleeping disorders
 
-    # Check if certain occupations associated with higher stress or poorer sleep? 
+    # Check if certain occupations associated with higher stress or poorer sleep
 
-    # Check if there is a non-linear relationship between sleep duration and sleep quality? 
+    # Check if there is a non-linear relationship between sleep duration and sleep quality
 
-    # Check if stress levels and sleep disorders related? 
+    # Check if stress levels and sleep disorders related
 
-    # Check if BMI affect sleep patterns? 
+    # Check if BMI affect sleep patterns
 
-    # Check if there a common patters in sleeping across the different age groups?
+    # Check if there a common patters in sleeping across the different age groups
 
 
 #Updating dataset
