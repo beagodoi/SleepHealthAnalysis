@@ -182,7 +182,7 @@ for var_5 in variaveis_5:
     plt.show()
 
 
-# Corralations
+# Correlations
     #Scatterplot: Sleep duration x Sleep quality
 sns.lmplot(x='Sleep Duration', y='Quality of Sleep', data=df, palette='mako', height=5, aspect=1.5)
 plt.title('Correlation between sleep duration and quality of sleep')
